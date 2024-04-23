@@ -5,8 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Hey! This is just a little playground I've setup for myself to play around with a Shopify store I built in Shopify.
 In addition to being a software engineer and writer, I also make JEWELRY!!
 
-![earring vibes](public/next.svg)
-
+![more_vibes](public/readme.JPG)
 
 ### This project is....
 
